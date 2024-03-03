@@ -1,0 +1,2 @@
+# spectralFilter
+Norns spectral filter
